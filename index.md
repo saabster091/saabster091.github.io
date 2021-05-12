@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I'm just a digital data guy in a big house. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+In the breaks between corporate wars, herding cats and hating my life, I do some cool things with Power BI, Adobe Analytics and T-SQL. 
